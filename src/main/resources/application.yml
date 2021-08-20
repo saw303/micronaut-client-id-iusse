@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: clientid
+  http:
+    services:
+      distributionpartners:
+        url: "https://enno607rfyrfuqy.m.pipedream.net"
